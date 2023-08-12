@@ -25,7 +25,7 @@ const Login = () => {
 	return (
 		<div className={styles.container}>
 			<Head>
-				<title>Admin | FoodDe</title>
+				<title>Admin | Foodie</title>
 			</Head>
 			<div className={styles.wrapper}>
 				<h1>Admin Dashboard</h1>

@@ -48,7 +48,7 @@ const Index = ({ orders, products }) => {
 	return (
 		<div className={styles.container}>
 			<Head>
-				<title>Admin | FoodDe</title>
+				<title>Admin | Foodie</title>
 			</Head>
 
 			<div className={styles.item}>

@@ -14,7 +14,7 @@ const Order = ({ order }) => {
 	return (
 		<div className={styles.container}>
 			<Head>
-				<title>Orders | FoodDe</title>
+				<title>Orders | Foodie</title>
 			</Head>
 			<div className={styles.left}>
 				<div className={styles.row}>

@@ -34,7 +34,7 @@ const Product = ({ product }) => {
 	return (
 		<div className={styles.container}>
 			<Head>
-				<title>{product.title} | FoodDe</title>
+				<title>{product.title} | Foodie</title>
 			</Head>
 			<div className={styles.left}>
 				<div className={styles.imgContainer}>

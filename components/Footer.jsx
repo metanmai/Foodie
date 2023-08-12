@@ -10,7 +10,7 @@ const Footer = () => {
 			</div>
 			<div className={styles.item}>
 				<div className={styles.card}>
-					<h2 className={styles.motto}>FOODDE, THE BEST RESTAURANT.</h2>
+					<h2 className={styles.motto}>Foodie, THE BEST RESTAURANT.</h2>
 				</div>
 				<div className={styles.card}>
 					<h1 className={styles.title}>FIND OUR RESTAURANTS</h1>

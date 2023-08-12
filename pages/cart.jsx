@@ -43,7 +43,7 @@ const Cart = () => {
 	return (
 		<div className={styles.container}>
 			<Head>
-				<title>Cart | FoodDe</title>
+				<title>Cart | Foodie</title>
 			</Head>
 			<div className={styles.left}>
 				<table className={styles.table}>

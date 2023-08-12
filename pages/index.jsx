@@ -12,7 +12,7 @@ export default function Home({ productList, admin }) {
 	return (
 		<div className={styles.container}>
 			<Head>
-				<title>FoodDe</title>
+				<title>Foodie</title>
 				<meta name="description" content="Online Food Ordering Website" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
